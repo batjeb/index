@@ -1,0 +1,35 @@
+.paraOne {
+  color: rgba(30, 100, 60, 0.5);
+  word-spacing: 2rem;
+  text-transform: uppercase;
+}
+img {
+  src: "https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg?crop=0.630xw:1.00xh;0.186xw,0&resize=1200:*";
+}
+
+.paraTwo {
+  color: rgb(100, 100, 10);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.para {
+  background-color: rgb(212, 246, 250);
+}
+
+/* body {
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg?crop=0.630xw:1.00xh;0.186xw,0&resize=1200:*");
+} */
+
+.one {
+  background-color: beige;
+}
+
+.two {
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg?crop=0.630xw:1.00xh;0.186xw,0&resize=1200:*");
+  font-family: serif;
+}
+
+.three {
+  color: blue;
+}
